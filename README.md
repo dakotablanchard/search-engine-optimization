@@ -12,4 +12,7 @@ The purpose of this project was to refactor already existing code for a website 
 [Source Code](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 ## License
-Refer to repo for license file.
+Refer to the LICENSE file in the repo:
+
+[License](https://github.com/dakotablanchard/wc-module-1/blob/main/LICENSE)
+
