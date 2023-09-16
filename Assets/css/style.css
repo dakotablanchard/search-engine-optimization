@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* nav bar styling starts */
+/* NAV BAR STYLING START */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,9 +46,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-/* nav bar styling ends */
+/* NAV BAR STYLING END */
 
-/* main screen image start */
+/* MAIN SCREEN IMAGE START */
 .hero {
     height: 800px;
     width: 100%;
@@ -57,9 +57,9 @@ a {
     background-size: cover;
     background-position: center;
 }
-/* main screen image end */
+/* MAIN SCREEN IMAGE END */
 
-/* Content section styling start */
+/* CONTENT STYLING START */
 .content {
     width: 75%;
     display: inline-block;
@@ -133,9 +133,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Content styling end */
 
-/* Styling for aside element start */
+/* ASIDE ELEMENT START */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -194,8 +193,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Styling for aside element end */
+/* ASIDE ELEMENT END */
+/* CONTENT SYLING END */
 
+/* FOOTER START */
 .footer {
     padding: 30px;
     clear: both;
@@ -206,3 +207,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* FOOT END */
