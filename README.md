@@ -7,7 +7,7 @@ The purpose of this project was to refactor already existing code for a website 
 * Added semantic elements in place of non-semantic elements to make code easier to read.
 * Added comments to help navigate separate sections of code.
 * Rearranged CSS selectors to be in sequential order.
-* Deleted unnecessary ID attributes in content section to make code easier to read.
+* Added missing ID attribute to fix Search Engine Optimization button.
 
 ## Credits:
 
